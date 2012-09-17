@@ -47,7 +47,6 @@ local.properties
 *_i.c
 *_p.c
 *.ilk
-*.meta
 *.obj
 *.pch
 *.pdb
@@ -161,3 +160,4 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+ProjectSettings
